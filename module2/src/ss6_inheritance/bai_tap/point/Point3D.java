@@ -33,7 +33,7 @@ public class Point3D extends Point2D {
     public String toString() {
         return "Point3D{" +
                 "x=" + getX() +
-                "y=" + getX() +
+                "y=" + getY() +
                 "z=" + z +
                 '}';
     }
